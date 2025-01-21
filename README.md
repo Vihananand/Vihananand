@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vihananand/Vihananand/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vihananand/Vihananand/output/snake.svg](https://github.com/Vihananand/Vihananand/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
