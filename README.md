@@ -30,7 +30,7 @@
   <a href="https://www.leetcode.com/vihan2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://github.com/Vihananand" target="_blank">
+  <a href="https://github.com/Vihananand" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/100/ffffff/github--v1.png" alt="GitHub" width="35" height="35"/>
   </a>
 </p>
