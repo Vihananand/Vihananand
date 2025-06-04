@@ -65,8 +65,8 @@
 ### GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihananand&show_icons=true&locale=en&layout=compact&theme=dracula" width="43%" alt="Top Languages"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vihananand&show_icons=true&locale=en&theme=dracula" width="50%" alt="GitHub Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vihananand&show_icons=true&locale=en&layout=compact&theme=dracula" width="43%" alt="Top Languages"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vihananand&show_icons=true&locale=en&theme=dracula" width="50%" alt="GitHub Stats"/>
 </p>
 
 <br clear="both">
