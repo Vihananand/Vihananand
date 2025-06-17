@@ -4,11 +4,12 @@
 
 ---
 
-- 🌱 I'm currently learning **NextJS**
-- 👯 I'm looking to collaborate on **building impactful and innovative projects.**
-- 💬 Ask me about **React, C++, Python**
-- 📫 How to reach me **vihananand2018@gmail.com**
-- ⚡ Fun fact **My brain is programmable 🧠, but guess what? I'm the admin! 👩‍💻**
+- 🌱 I'm currently learning **NextJS**  
+- 👯 I'm looking to collaborate on **building impactful and innovative projects**  
+- 💬 Ask me about **React, C++, Python**  
+- 📫 How to reach me: **vihananand2018@gmail.com**  
+- 🌐 Check out my portfolio: [personal-portfolio-hazel-five-23.vercel.app](https://personal-portfolio-hazel-five-23.vercel.app/)  
+- ⚡ Fun fact: **My brain is programmable 🧠, but guess what? I'm the admin! 👩‍💻**
 
 ---
 
