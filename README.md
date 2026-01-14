@@ -60,6 +60,7 @@
 ![Redis](https://img.shields.io/badge/Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white) 
 ![GSAP](https://img.shields.io/badge/Gsap-61F268?style=for-the-badge&logo=gsap&logoColor=black) 
 ![Framer](https://img.shields.io/badge/Framer-FBF32F?style=for-the-badge&logo=framer&logoColor=black) 
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy) 
 
 </div>
 
