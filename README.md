@@ -66,17 +66,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vihananand&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=445&langs_count=8" height="200" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Vihananand&show_icons=true&locale=en&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
