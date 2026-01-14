@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## A passionate Full Stack Web Developer from India
+## A passionate Generalist Software Developer from India
 
 ![Demo GIF](img.gif)
 
