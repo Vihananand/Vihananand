@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning **SpringBoot**
 - � I'm looking to collaborate on **building impactful and innovative projects**
 - 💬 Ask me about **React, Python, JavaScript**
 - �📫 How to reach me: [vihananand2018@gmail.com](mailto:vihananand2018@gmail.com)
