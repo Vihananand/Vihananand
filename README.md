@@ -60,7 +60,11 @@
 ![Redis](https://img.shields.io/badge/Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white) 
 ![GSAP](https://img.shields.io/badge/Gsap-61F268?style=for-the-badge&logo=gsap&logoColor=black) 
 ![Framer](https://img.shields.io/badge/Framer-FBF32F?style=for-the-badge&logo=framer&logoColor=black) 
-![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy) 
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
